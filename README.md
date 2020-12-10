@@ -1,1 +1,2 @@
-# lego-microgame
+# legomicrogame
+Small project
