@@ -112,7 +112,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Toggle
     - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
-    Assets/LEGO/Scenes/LEGO Tutorial.unity:
+    Assets/LEGO/Scenes/Level 1.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -130,6 +130,8 @@ ScriptsOnlyBuild:
     - Class: 43
       Script: {instanceID: 0}
     - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
       Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
@@ -170,6 +172,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11432}
     - Class: 114
+      Script: {instanceID: 11438}
+    - Class: 114
       Script: {instanceID: 11462}
     - Class: 114
       Script: {instanceID: 11474}
@@ -202,11 +206,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12260}
     - Class: 114
+      Script: {instanceID: 12274}
+    - Class: 114
+      Script: {instanceID: 12330}
+    - Class: 114
       Script: {instanceID: 12428}
     - Class: 114
       Script: {instanceID: 12458}
     - Class: 114
       Script: {instanceID: 12478}
+    - Class: 114
+      Script: {instanceID: 12530}
     - Class: 114
       Script: {instanceID: 12534}
     - Class: 114
@@ -252,6 +262,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13232}
     - Class: 114
+      Script: {instanceID: 13248}
+    - Class: 114
       Script: {instanceID: 13266}
     - Class: 114
       Script: {instanceID: 13270}
@@ -274,7 +286,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13634}
     - Class: 114
+      Script: {instanceID: 13678}
+    - Class: 114
       Script: {instanceID: 13782}
+    - Class: 114
+      Script: {instanceID: 13822}
+    - Class: 114
+      Script: {instanceID: 13856}
     - Class: 114
       Script: {instanceID: 13872}
     - Class: 114
@@ -381,7 +399,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11306}
     - Class: 114
+      Script: {instanceID: 11328}
+    - Class: 114
       Script: {instanceID: 11432}
+    - Class: 114
+      Script: {instanceID: 11438}
     - Class: 114
       Script: {instanceID: 11462}
     - Class: 114
@@ -415,11 +437,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12260}
     - Class: 114
+      Script: {instanceID: 12330}
+    - Class: 114
       Script: {instanceID: 12428}
     - Class: 114
       Script: {instanceID: 12458}
     - Class: 114
       Script: {instanceID: 12478}
+    - Class: 114
+      Script: {instanceID: 12530}
     - Class: 114
       Script: {instanceID: 12534}
     - Class: 114
@@ -447,7 +473,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12930}
     - Class: 114
-      Script: {instanceID: 12954}
+      Script: {instanceID: 12974}
     - Class: 114
       Script: {instanceID: 12998}
     - Class: 114
@@ -487,9 +513,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13634}
     - Class: 114
-      Script: {instanceID: 13782}
+      Script: {instanceID: 13678}
     - Class: 114
-      Script: {instanceID: 13822}
+      Script: {instanceID: 13782}
     - Class: 114
       Script: {instanceID: 13872}
     - Class: 114
@@ -596,6 +622,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11306}
     - Class: 114
+      Script: {instanceID: 11328}
+    - Class: 114
       Script: {instanceID: 11432}
     - Class: 114
       Script: {instanceID: 11462}
@@ -624,8 +652,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12082}
     - Class: 114
-      Script: {instanceID: 12186}
-    - Class: 114
       Script: {instanceID: 12204}
     - Class: 114
       Script: {instanceID: 12260}
@@ -642,11 +668,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12576}
     - Class: 114
-      Script: {instanceID: 12582}
-    - Class: 114
       Script: {instanceID: 12612}
-    - Class: 114
-      Script: {instanceID: 12706}
     - Class: 114
       Script: {instanceID: 12718}
     - Class: 114
@@ -654,23 +676,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12782}
     - Class: 114
+      Script: {instanceID: 12850}
+    - Class: 114
       Script: {instanceID: 12880}
     - Class: 114
       Script: {instanceID: 12894}
     - Class: 114
       Script: {instanceID: 12916}
     - Class: 114
-      Script: {instanceID: 12930}
-    - Class: 114
-      Script: {instanceID: 12954}
+      Script: {instanceID: 12974}
     - Class: 114
       Script: {instanceID: 12998}
     - Class: 114
       Script: {instanceID: 13038}
     - Class: 114
       Script: {instanceID: 13070}
-    - Class: 114
-      Script: {instanceID: 13124}
     - Class: 114
       Script: {instanceID: 13172}
     - Class: 114
@@ -679,8 +699,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13228}
     - Class: 114
       Script: {instanceID: 13232}
-    - Class: 114
-      Script: {instanceID: 13266}
     - Class: 114
       Script: {instanceID: 13270}
     - Class: 114
@@ -701,8 +719,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13550}
     - Class: 114
       Script: {instanceID: 13634}
-    - Class: 114
-      Script: {instanceID: 13678}
     - Class: 114
       Script: {instanceID: 13782}
     - Class: 114
@@ -727,6 +743,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 14226}
     - Class: 114
       Script: {instanceID: 14238}
+    - Class: 114
+      Script: {instanceID: 14274}
     - Class: 114
       Script: {instanceID: 14284}
     - Class: 114
@@ -772,8 +790,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 49
-      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 83
@@ -797,21 +813,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11944}
     - Class: 114
-      Script: {instanceID: 12274}
-    - Class: 114
       Script: {instanceID: 12574}
     - Class: 114
       Script: {instanceID: 13038}
     - Class: 114
       Script: {instanceID: 13232}
     - Class: 114
-      Script: {instanceID: 13248}
-    - Class: 114
       Script: {instanceID: 13550}
     - Class: 114
       Script: {instanceID: 13634}
-    - Class: 114
-      Script: {instanceID: 13856}
     - Class: 114
       Script: {instanceID: 13920}
     - Class: 114
@@ -2360,13 +2370,13 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 20
   scenePathNames:
+  - Assets/LEGO/Scenes/Level 1.unity
+  - Assets/LEGO/Scenes/Level 2.unity
+  - Assets/LEGO/Scenes/Level 3.unity
   - Assets/LEGO/Scenes/Menu Intro.unity
   - Assets/LEGO/Scenes/Menu Levels.unity
   - Assets/LEGO/Scenes/Menu Lose 1.unity
   - Assets/LEGO/Scenes/Menu Lose 2.unity
   - Assets/LEGO/Scenes/Menu Lose 3.unity
   - Assets/LEGO/Scenes/Menu Win.unity
-  - Assets/LEGO/Scenes/LEGO Tutorial.unity
-  - Assets/LEGO/Scenes/Level 2.unity
-  - Assets/LEGO/Scenes/Level 3.unity
   playerPath: C:/Users/jesus/MyFirstGame/WebGL Builds/Build

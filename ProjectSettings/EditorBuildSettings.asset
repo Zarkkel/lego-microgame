@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/LEGO/Scenes/Level 1.unity
+    guid: 3af59b569efd573438582aa82f2672ee
+  - enabled: 1
+    path: Assets/LEGO/Scenes/Level 2.unity
+    guid: d90ae0ed89c635f49bc41648dba0d6b0
+  - enabled: 1
+    path: Assets/LEGO/Scenes/Level 3.unity
+    guid: 476e1d651f2ff6640b6bcbbe325bd78d
+  - enabled: 1
     path: Assets/LEGO/Scenes/Menu Intro.unity
     guid: 77504b30d92956e4ab45b9e740f2d454
   - enabled: 1
@@ -23,13 +32,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/LEGO/Scenes/Menu Win.unity
     guid: 05cfb1c697d1a4d22b5edccf653ebd94
-  - enabled: 1
-    path: Assets/LEGO/Scenes/LEGO Tutorial.unity
-    guid: c117ceea613454843a1d1c28c25d7a94
-  - enabled: 1
-    path: Assets/LEGO/Scenes/Level 2.unity
-    guid: be23fb79defc2ce4dbec8ccf9331f159
-  - enabled: 1
-    path: Assets/LEGO/Scenes/Level 3.unity
-    guid: 60dbc5d73cde0aa41a83d545af4a43bf
   m_configObjects: {}

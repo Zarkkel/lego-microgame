@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/LEGO/Scenes/Level 3.unity
+- path: Assets/LEGO/Scenes/Menu Win.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
